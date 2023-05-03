@@ -1,12 +1,9 @@
 # Martin's Profile
 ### Hi there 👋
-
 ### I'm a big data analyst with back-end development skills!
 - 🔭 I worked as a data analyst in production field for 3 years and as a software engineer for 1 year.
-- 👯 I’m looking forward to collaborating with other content creators.
 - 🥅 2023 Goals: I'm dedicated to be a versatile data analyst with software development skills.
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
-<br/><br/>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,9 +19,8 @@
 <img align="left" alt="Linux" width="30px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br/><br/>
-
-### I spent my time on:
+<br/>
+<!-- ### I spent my time on:
 <table>
   <tr>
     <td>Python</td>
@@ -47,17 +43,15 @@
     <td>▓▓▓▓░░░░░░░░░░░░░</td>
   </tr>
 </table>
-<br/>
+<br/> -->
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg" />: <a href="https://docs.google.com/document/d/1PSZ-zcDBwOixqBycKcb7g4poh4pcLDP9adenQjrwpr4/edit#heading=h.aagfqklm9zwt"> Martin's Resume </a> <br/>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg" />: <a href="https://docs.google.com/document/d/1PSZ-zcDBwOixqBycKcb7g4poh4pcLDP9adenQjrwpr4/edit#heading=h.aagfqklm9zwt"> Martin's Resume </a> 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: <a href="www.linkedin.com/in/martin-cho-9a9084183"> Martin Cho </a> <br/>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: <a href="www.linkedin.com/in/martin-cho-9a9084183"> Martin Cho </a>
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />: <a href="www.linkedin.com/in/martin-cho-9a9084183"> marx1992620@gmail.com  </a>
-
-<br/><br/>
+<br/>
 
 <img align="left" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marx1992620&hide=contribs,prs" /> 
 <img align="right" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx1992620" />
-
