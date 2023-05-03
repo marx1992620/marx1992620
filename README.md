@@ -1,4 +1,3 @@
-# Martin's Profile
 ### Hi there 👋
 ### I'm a big data analyst with back-end development skills!
 - 🔭 I worked as a data analyst in production field for 3 years and as a software engineer for 1 year.
