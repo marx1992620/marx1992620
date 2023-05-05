@@ -52,5 +52,5 @@
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />: <a href="https://www.linkedin.com/in/martin-cho-9a9084183"> marx1992620@gmail.com  </a>
 <br/>
 
-<img align="left" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx1992620" />
+<!-- <img align="left" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx1992620" /> -->
 <!-- <img align="right" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marx1992620&hide=contribs,prs" />  -->
