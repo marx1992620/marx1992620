@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm a big data analyst with automation data ETL skills!
-- 🔭 I worked as a data analyst in production field for 4 years and as a software engineer for 1 year.
-- 🥅 2023 Goals: I'm dedicated to be a versatile data analyst with automation software development skills.
+### I'm a skilled big data analyst with expertise in automating data ETL processes!
+- 🔭 4 years of experience in data analysis within the production field and 1 year of experience as a software engineer.
+- 🥅 2023 Goals: I'm dedicated to becoming a versatile data analyst with advanced skills in automation and software development.
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
 
 ### Languages and Tools:
