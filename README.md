@@ -26,12 +26,16 @@
     <td>3 years</td>
   </tr>
   <tr>
+    <td>Linux</td>
+    <td>2 years</td>
+  </tr>
+  <tr>
     <td>MySQL</td>
     <td>1-2 years</td>
   </tr>
   <tr>
-    <td>Linux</td>
-    <td>2 years</td>
+    <td>MongoDB</td>
+    <td>1-2 years</td>
   </tr>
   <tr>
     <td>Docker</td>
