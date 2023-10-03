@@ -19,30 +19,34 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
-<!-- ### I spent my time on:
+### I spent my time on:
 <table>
   <tr>
     <td>Python</td>
-    <td>▓▓▓▓▓▓▓▓░░░░░░░░░</td>
+    <td>3 years</td>
   </tr>
   <tr>
     <td>MySQL</td>
-    <td>▓▓▓▓▓░░░░░░░░░░░░</td>
+    <td>1-2 years</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td>▓▓▓▓░░░░░░░░░░░░░</td>
+    <td>2 years</td>
   </tr>
   <tr>
     <td>Docker</td>
-    <td>▓▓▓▓░░░░░░░░░░░░░</td>
+    <td>1-2 years</td>
   </tr>
   <tr>
     <td>R</td>
-    <td>▓▓▓▓░░░░░░░░░░░░░</td>
+    <td>1-2 years</td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td>0-1 years</td>
   </tr>
 </table>
-<br/> -->
+<br/>
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg" />: <a href="https://docs.google.com/document/d/1PSZ-zcDBwOixqBycKcb7g4poh4pcLDP9adenQjrwpr4/edit#heading=h.aagfqklm9zwt"> Martin's Resume </a> 
