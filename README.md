@@ -2,7 +2,7 @@
 ### I'm a senior big data analyst with a specialization in automating data ETL processes!
 - 💪 3 years of hands-on experience in Python.
 - 🔨 3 years of expertise in data analysis within the production industry.
-- 📌 2023 Goals: I'm dedicated to be a versatile data analyst with advanced skills in automation and software development.
+- 📌 2024 Goals: I'm dedicated to be a versatile data analyst with advanced skills in automation and software development.
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
 
 ### Languages and Tools:
