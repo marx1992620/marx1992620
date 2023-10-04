@@ -6,31 +6,21 @@
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />
-<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png?f=avif&w=256" />
-<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png" />
-<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-<img align="left" alt="Hadoop" width="30px" src="https://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png" />
-<img align="left" alt="Spark" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" />
-<img align="left" alt="Kafka" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/640px-Apache_kafka_wordtype.svg.png" />
-<img align="left" alt="Docker" width="30px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png" />
-<img align="left" alt="Linux" width="30px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img src="./icons/Python-Dark.svg" width="48">
-<img src="./icons/R-Dark.svg" width="48"> 
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/Linux-Dark.svg" width="48">
-<img src="./icons/MySQL-Dark.svg" width="48">
-<img src="./icons/MongoDB.svg" width="48"> 
-<img src="./icons/Kafka.svg" width="48">
-<img src="./icons/Docker.svg" width="48">
-<img src="./icons/AWS-Dark.svg" width="48">
-<img src="./icons/Jenkins-Dark.svg" width="48">
-
-<br/>
+<img align="left" src="./icons/Python-Dark.svg" width="48">
+<img align="left" src="./icons/Django.svg" width="48"> 
+<img align="left" src="./icons/R-Dark.svg" width="48"> 
+<img align="left" src="./icons/JavaScript.svg" width="48">
+<img align="left" src="./icons/Linux-Dark.svg" width="48">
+<img align="left" src="./icons/MySQL-Dark.svg" width="48">
+<img align="left" src="./icons/MongoDB.svg" width="48"> 
+<img align="left" src="./icons/Kafka.svg" width="48">
+<img align="left" src="./icons/Docker.svg" width="48">
+<img align="left" src="./icons/AWS-Dark.svg" width="48">
+<img align="left" src="./icons/Jenkins-Dark.svg" width="48">
+<img align="left" src="./icons/Nginx.svg" width="48">
+<img align="left" src="./icons/Git.svg" width="48"> 
+<img align="left" src="./icons/Github-Dark.svg" width="48">
+<br/><br/>
 ### I spent my time on:
 <table>
   <tr>
