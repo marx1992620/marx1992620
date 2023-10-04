@@ -19,8 +19,8 @@
 <img align="left" src="./icons/Jenkins-Dark.svg" width="48">
 <img align="left" src="./icons/Nginx.svg" width="48">
 <img align="left" src="./icons/Git.svg" width="48"> 
-<img align="left" src="./icons/Github-Dark.svg" width="48">
-<br/><br/><br/>
+<img align="left" src="./icons/Github-Dark.svg" width="48"><br/>
+<br/><br/>
 
 ### I spent my time on:
 <table>
