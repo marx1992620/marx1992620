@@ -58,7 +58,7 @@
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />: <a href="https://www.linkedin.com/in/martin-cho-9a9084183"> Martin Cho </a>
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />: <a href="https://www.linkedin.com/in/martin-cho-9a9084183"> marx1992620@gmail.com  </a>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />: <a href="mailto:marx1992620@gmail.com"> marx1992620@gmail.com  </a>
 <br/>
 
 <!-- <img align="left" alt="marx1992620's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx1992620" /> -->
