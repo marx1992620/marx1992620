@@ -19,10 +19,10 @@
 <img align="left" src="./icons/Jenkins-Dark.svg" width="48">
 <img align="left" src="./icons/Nginx.svg" width="48">
 <img align="left" src="./icons/Git.svg" width="48"> 
-<img align="left" src="./icons/Github-Dark.svg" width="48"><br/>
-<p>123</p>
+<img align="left" src="./icons/Github-Dark.svg" width="48">
+<p>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
 
-<h2>I spent my time on:</h2>
+<h2 style="text-align:top;">I spent my time on:</h2>
 <table>
   <tr>
     <td>Python</td>
