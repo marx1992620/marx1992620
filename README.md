@@ -1,6 +1,7 @@
 ### Hi there 👋
-### I'm a proficient big data analyst with a specialization in automating data ETL processes!
-- 💪 4 years of experience in data analysis within the production field and 1 year of experience as a software engineer.
+### I'm a senior big data analyst with a specialization in automating data ETL processes!
+- 💪 3 years of hands-on experience in Python.
+- 🔨 3 years of expertise in data analysis within the production industry.
 - 📌 2023 Goals: I'm dedicated to be a versatile data analyst with advanced skills in automation and software development.
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
 
