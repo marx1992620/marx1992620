@@ -1,8 +1,8 @@
 <h2>Hi there 👋</h1>
 <h2>I'm a senior big data analyst with a specialization in automating data ETL processes!</h2>
-- 💪 3 years of hands-on experience in Python.<br/>
-- 🔨 3 years of expertise in data analysis within the production industry.<br/>
-- 📌 2024 Goals: I'm dedicated to be a versatile data analyst with advanced skills in automation and software development.<br/>
+- 💪 5 years of hands-on experience in Python.<br/>
+- 🔨 4 years of expertise in data analysis within the production industry.<br/>
+- 📌 2025 Goals: I'm dedicated to be a versatile data analyst with advanced skills in automation and software development.<br/>
 - ⚡ Fun fact: I love to self-studying and setting up tools to make lives more convenient.
 
 <h2>Languages and Tools:</h2>
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>Python</td>
-    <td>3 years</td>
+    <td>5 years</td>
   </tr>
   <tr>
     <td>Linux</td>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>MySQL</td>
-    <td>1-2 years</td>
+    <td>2 years</td>
   </tr>
   <tr>
     <td>MongoDB</td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Docker</td>
-    <td>1-2 years</td>
+    <td>3 years</td>
   </tr>
   <tr>
     <td>R</td>
