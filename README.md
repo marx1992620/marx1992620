@@ -33,6 +33,10 @@
     <td>7 years</td>
   </tr>
   <tr>
+    <td>Docker</td>
+    <td>5 years</td>
+  </tr>
+  <tr>
     <td>Linux</td>
     <td>4 years</td>
   </tr>
@@ -43,10 +47,6 @@
   <tr>
     <td>MongoDB</td>
     <td>2 years</td>
-  </tr>
-  <tr>
-    <td>Docker</td>
-    <td>5 years</td>
   </tr>
   <tr>
     <td>R</td>
