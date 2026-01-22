@@ -25,32 +25,44 @@
 <h2 style="text-align:top;">I spent my time on:</h2>
 <table>
   <tr>
+    <td>AI / ML</td>
+    <td>7 years</td>
+  </tr>
+  <tr>
     <td>Python</td>
-    <td>5 years</td>
+    <td>7 years</td>
   </tr>
   <tr>
     <td>Linux</td>
-    <td>2 years</td>
+    <td>4 years</td>
   </tr>
   <tr>
     <td>MySQL</td>
-    <td>2 years</td>
+    <td>4 years</td>
   </tr>
   <tr>
     <td>MongoDB</td>
-    <td>1-2 years</td>
+    <td>2 years</td>
   </tr>
   <tr>
     <td>Docker</td>
-    <td>3 years</td>
+    <td>5 years</td>
   </tr>
   <tr>
     <td>R</td>
-    <td>1-2 years</td>
+    <td>2 years</td>
   </tr>
   <tr>
-    <td>Javascript</td>
-    <td>0-1 years</td>
+    <td>AWS S3</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>Kafka</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>K8S</td>
+    <td>1 year</td>
   </tr>
 </table>
 
